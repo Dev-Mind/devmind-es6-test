@@ -12,7 +12,8 @@ class WelcomeSpeaker {
         }
 
         try {
-            return 'Hello ' + name + ', your badge number is ' + this.speakerService.getBadge(name);
+            let badge = this.speakerService.getBadge(name);
+            return `Hello ${name}, your badge number is ${badge}`;
         }
         catch (e) {
             return 'Error occurred';
