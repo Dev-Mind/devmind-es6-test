@@ -1,6 +1,6 @@
 # Tests en Javascript
 
-![Dev-Mind](src/app/assets/img/logo_long_1400.png)
+![Dev-Mind](https://www.dev-mind.fr/images/logo/logo_1500.png)
 
 Projet minimal pour faire des tests en JavaScript (ES2015)
 
